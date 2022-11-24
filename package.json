@@ -1,0 +1,23 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "自定义脚手架功能",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QiuShuiDyp/my-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QiuShuiDyp/my-cli/issues"
+  },
+  "homepage": "https://github.com/QiuShuiDyp/my-cli#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
